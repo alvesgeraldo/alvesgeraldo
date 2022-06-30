@@ -1,5 +1,13 @@
 ## Olá meu nome é Geraldo Alves 👋  
 
+### Sobre mim 🚀 
+
+Sempre fui apaixonado pela área de tecnologia. Embora atualmente não trabalho na área, estou estudando e me preparando para transição de carreira.
+
+Estudo atualmente pela UNOPAR tecnólogo de Desenvolvimento WEB e fazendo um Curso Programador LifeStyle. Esses dois cursos tem me ajudado a aprender uma boa base de lógica computacional, algoritmos e das linguagens que uso no dia a dia.
+
+Neste repositório tenho alguns projetos pessoais de estudo do Programador LifeStyle: [Desafio PL 2.0 - Teste Lógico](https://github.com/alvesgeraldo/desafiopl-testelogico), [Desafio PL 2.0 - Website](https://github.com/alvesgeraldo/desafiopl-spacestylex). Fiquem a vontade para propor melhorias, que estar sempre aprendendo e me aperfeiçoando.
+
 ### Meus contatos 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alves-geraldo/) 
