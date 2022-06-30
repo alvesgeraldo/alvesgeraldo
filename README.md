@@ -1,7 +1,5 @@
 ## Olá meu nome é Geraldo Alves 👋  
 
-<br>
-
 ### Meus contatos 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alves-geraldo/) 
@@ -11,7 +9,6 @@
 <br> 
 
 ![Alves Geraldo GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesgeraldo&show_icons=true&theme=dracula)
-<br>
 
 ### Tecnologias que uso no dia a dia
 
